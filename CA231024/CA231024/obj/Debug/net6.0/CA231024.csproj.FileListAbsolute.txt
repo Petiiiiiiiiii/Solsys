@@ -1,0 +1,14 @@
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\bin\Debug\net6.0\CA231024.exe
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\bin\Debug\net6.0\CA231024.deps.json
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\bin\Debug\net6.0\CA231024.runtimeconfig.json
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\bin\Debug\net6.0\CA231024.dll
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\bin\Debug\net6.0\CA231024.pdb
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\CA231024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\CA231024.AssemblyInfoInputs.cache
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\CA231024.AssemblyInfo.cs
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\CA231024.csproj.CoreCompileInputs.cache
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\CA231024.dll
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\refint\CA231024.dll
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\CA231024.pdb
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\CA231024.genruntimeconfig.cache
+C:\Users\C20OroszP\source\repos\CA231024\CA231024\obj\Debug\net6.0\ref\CA231024.dll
